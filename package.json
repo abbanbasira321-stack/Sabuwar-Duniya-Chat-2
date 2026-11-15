@@ -1,0 +1,28 @@
+{
+  "name": "sabuwar-duniya-chat-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abbanbasira321-stack/Sabuwar-Duniya-Chat-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/abbanbasira321-stack/Sabuwar-Duniya-Chat-2/issues"
+  },
+  "homepage": "https://github.com/abbanbasira321-stack/Sabuwar-Duniya-Chat-2#readme",
+  "dependencies": {
+    "@capacitor/android": "^8.6.2",
+    "@capacitor/core": "^8.6.2"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^8.6.2"
+  }
+}
